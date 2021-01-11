@@ -1,2 +1,2 @@
-# Object Oriented Programming in C++ by Robert Lafore
-Object Oriented Programming in C++ by Robert Lafore in examples
+## Object Oriented Programming in C++ by Robert Lafore
+# Book's content
