@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  double numGallos;
+  cin >> numGallos;
+  cout << numGallos / 7.481;
+  return 0;
+}
