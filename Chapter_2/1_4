@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "I loved you By Joseph Brodsky" << endl << endl;
+   
+  cout << "I loved you. Love is still (but maybe" << endl;
+  cout << "no more than pain) is drilling brains of mine," << endl;
+  cout << "All’s broken to the pieces to the hell. I" << endl;
+  cout << "tried to shoot myself, but it is complicated" << endl;
+  cout << "with guns. And then, the temples:" << endl;
+  cout << "In which to cave. It’s spoiled not by trembling" << endl;
+  cout << "But musing. Hell! That is not humanly!" << endl;
+  cout << "I loved you, so much and so hopelessly" << endl;
+  cout << "God send it being again with you: but not." << endl;
+  cout << "He, being capable of everything in world," << endl;
+  cout << "Will never make it twice (and even after Parmenides)" << endl;
+  cout << "That burning breast and that wide-boned rustle," << endl;
+  cout << "When fillings in the jaw are fused because of thirst." << endl;
+  cout << "To touch the burst, I’m striking out — mouth." << endl;
+  
+  return 0;
+}
